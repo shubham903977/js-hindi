@@ -1,0 +1,5 @@
+const acountID = 1445533
+let acountEmail = "shubham@google.com"
+var acountPassword = "12345"
+acountCity = "indore"
+console.log(acountID);
