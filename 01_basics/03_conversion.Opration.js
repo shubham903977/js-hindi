@@ -1,5 +1,12 @@
+<<<<<<< HEAD
+let score = 33
+=======
 //let score = false
+>>>>>>> 0fb5d76048e616db5e12fbbc266d865f8a79b825
 
+<<<<<<< HEAD
+console.log(typeof score)
+=======
 //console.log(typeof score);
 //console.log(typeof (score));
 //let valueInNumber = Number(score)
@@ -44,3 +51,5 @@ gamecounter++;
 console.log(gamecounter)
 
 //node 01_basics/03_conversion.Opration.js
+
+>>>>>>> 0fb5d76048e616db5e12fbbc266d865f8a79b825
