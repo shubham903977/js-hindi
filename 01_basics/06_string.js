@@ -19,3 +19,4 @@ console.log(newStringone.trim());
 const url = "http://shubham.hardiya20%.com"
 console.log(url.replace('20%','-'))
 console.log(url.includes("sundar"))
+console.log(gameName.split('-'))
