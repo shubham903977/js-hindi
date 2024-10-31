@@ -1,25 +1,16 @@
-<<<<<<< HEAD
+
 
 let score = 33
 
-=======
-<<<<<<< HEAD
+
 let score = 33
-=======
->>>>>>> d2a79680aed3597032f837be230d7c34c53b6eb8
+
 //let score = false
->>>>>>> 0fb5d76048e616db5e12fbbc266d865f8a79b825
-
-<<<<<<< HEAD
+console.log(typeof score)
 
 
 console.log(typeof score)
 
-=======
-<<<<<<< HEAD
-console.log(typeof score)
-=======
->>>>>>> d2a79680aed3597032f837be230d7c34c53b6eb8
 //console.log(typeof score);
 //console.log(typeof (score));
 //let valueInNumber = Number(score)
@@ -64,9 +55,3 @@ gamecounter++;
 console.log(gamecounter)
 
 //node 01_basics/03_conversion.Opration.js
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 0fb5d76048e616db5e12fbbc266d865f8a79b825
->>>>>>> d2a79680aed3597032f837be230d7c34c53b6eb8

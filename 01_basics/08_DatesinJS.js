@@ -1,3 +1,6 @@
+let mydate = new Date()
+console.log(mydate)
+
 let myDate = new Date()
 // console.log(myDate.toString());
 // console.log(myDate.toDateString())
