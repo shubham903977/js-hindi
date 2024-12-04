@@ -55,9 +55,17 @@ function handleObject(anyObject) {
 
 const Mynewarray = [200,300,400,500]
 
+
+function loginUsermsg(username) {
+    if(!username){
+        console.log("Please enter username");
+        return
+    }
+    return `${username} just logged in`    
+
 function returnsecondvalue(getarray) {
     return getarray[1]    
+ 
 }
 // console.log(returnsecondvalue(Mynewarray));
-console.log(returnsecondvalue([200,600,400,500]));
-
+console.log(returnsecondvalue([200,600,400,500]))}
