@@ -63,9 +63,15 @@ function loginUsermsg(username) {
     }
     return `${username} just logged in`    
 
-function returnsecondvalue(getarray) {
-    return getarray[1]    
- 
+
+function loginUsermsg(username) {
+    if(!username){
+        console.log("Please enter username");
+        return
+    }
+    return `${username} just logged in`    
+
+
 }
 // console.log(returnsecondvalue(Mynewarray));
 console.log(returnsecondvalue([200,600,400,500]))}
